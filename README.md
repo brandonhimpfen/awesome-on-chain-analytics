@@ -30,6 +30,7 @@ Platforms providing dashboards, metrics, and insights into blockchain activity.
 - [IntoTheBlock](https://www.intotheblock.com/) — AI-driven analytics platform for crypto markets.
 - [Santiment](https://santiment.net/) — Data platform combining on-chain, social, and development metrics.
 - [Token Terminal](https://tokenterminal.com/) — Financial analytics for crypto protocols and networks.
+- [Bitcoin Bottom Score](https://bitcoinbottom.app) — Free Bitcoin market cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, Realized Price, NVT Ratio, and more) into a single daily probability score. No signup required.
 
 ## Blockchain Explorers
 
