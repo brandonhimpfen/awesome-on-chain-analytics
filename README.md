@@ -73,6 +73,7 @@ Tools for analyzing wallet behavior and identifying patterns.
 - [DeBank](https://debank.com/) — Wallet tracking and DeFi portfolio analytics.
 - [Zapper](https://zapper.xyz/) — Dashboard for tracking DeFi positions and wallet activity.
 - [Zerion](https://zerion.io/) — Portfolio tracker for on-chain assets and activity.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain trust scoring and behavioral analytics for autonomous AI agent wallets on Solana. Tracks agent transaction history and computes reputation scores for agent-to-agent verification. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## DeFi Analytics
 
