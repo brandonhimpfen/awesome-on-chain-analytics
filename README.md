@@ -71,6 +71,7 @@ Tools for analyzing wallet behavior and identifying patterns.
 - [Arkham](https://arkhamintelligence.com/) — Intelligence platform linking wallets to entities.
 - [Breadcrumbs](https://www.breadcrumbs.app/) — Visualization tool for tracking transaction flows.
 - [DeBank](https://debank.com/) — Wallet tracking and DeFi portfolio analytics.
+- [PolymarketScan](https://polymarketscan.org/) - Independent Polymarket explorer for wallet records and whale prints. Also [whale tracker](https://polymarketscan.org/whale-tracker) and [best traders](https://polymarketscan.org/best-polymarket-traders).
 - [Zapper](https://zapper.xyz/) — Dashboard for tracking DeFi positions and wallet activity.
 - [Zerion](https://zerion.io/) — Portfolio tracker for on-chain assets and activity.
 
