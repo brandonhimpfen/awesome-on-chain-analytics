@@ -106,6 +106,7 @@ Sources of blockchain data for research and analysis.
 - [Kaiko](https://www.kaiko.com/) — Market and on-chain data provider.
 - [CryptoCompare](https://www.cryptocompare.com/) — Data and analytics for crypto markets.
 - [Messari Data](https://messari.io/) — Structured datasets and research.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Research & Resources
 
