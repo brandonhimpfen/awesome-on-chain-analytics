@@ -76,6 +76,7 @@ Tools for analyzing wallet behavior and identifying patterns.
 - [DeBank](https://debank.com/) — Wallet tracking and DeFi portfolio analytics.
 - [Zapper](https://zapper.xyz/) — Dashboard for tracking DeFi positions and wallet activity.
 - [Zerion](https://zerion.io/) — Portfolio tracker for on-chain assets and activity.
+- [Deep Blue Alpha](https://deepbluealpha.io/) — Real-time Ethereum whale tracker monitoring 20,000+ wallets across DEXs with live trade classification, conviction scoring, and net flow analysis. Free, no signup.
 
 ## DeFi Analytics
 
