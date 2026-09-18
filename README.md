@@ -62,10 +62,11 @@ Tools for querying, analyzing, and visualizing blockchain data.
 APIs and infrastructure for accessing and processing blockchain data.
 
 - [Alchemy](https://www.alchemy.com/) — Blockchain developer platform with APIs and data services.
-- [Infura](https://infura.io/) — Infrastructure provider for accessing Ethereum and IPFS.
-- [QuickNode](https://www.quicknode.com/) — Blockchain API provider for multiple networks.
+- [ChainLedgerAI](https://oculix.io/docs/chainledger/) — Ethereum on-chain activity metrics API with AI summaries. Returns transaction counts, volume, and counterparties for addresses. Free tier: 1,000 calls/day.
 - [Covalent](https://www.covalenthq.com/) — Unified API for multi-chain data access.
+- [Infura](https://infura.io/) — Infrastructure provider for accessing Ethereum and IPFS.
 - [Moralis](https://moralis.io/) — Backend platform for Web3 applications with real-time data.
+- [QuickNode](https://www.quicknode.com/) — Blockchain API provider for multiple networks.
 
 ## Wallet Intelligence & Tracking
 
