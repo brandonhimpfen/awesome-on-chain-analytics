@@ -86,6 +86,7 @@ Tools focused on decentralized finance metrics and protocols.
 - [DappRadar](https://dappradar.com/) — Analytics for decentralized applications and usage.
 - [TokenInsight](https://tokeninsight.com/) — Market intelligence for crypto and DeFi.
 - [APY.Vision](https://apy.vision/) — Analytics for liquidity providers and yield farming.
+- [QuantumPools](https://quantumpools.io) — Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 
 ## Forensics & Compliance
 
